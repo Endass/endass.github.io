@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
-# EnderSMP - Season 2
 *Wiki page for custom items!*
+
+## ORES
 
 .
 
