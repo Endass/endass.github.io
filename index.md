@@ -8,5 +8,5 @@ layout: default
 
 ### Dredomite Gem
 
-![Dredomite Ore](https://imgur.com/LesoVDE.png)
+![Dredomite Ore](dredomite3dSML.png)
 *Ore can generate in Overworld dimension. Maximum of  6 veins per chunk, 8 ores per vein. Can spawn only in Badlands biome between level 0 and 20.*
