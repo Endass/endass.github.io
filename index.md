@@ -17,7 +17,7 @@ layout: default
 
 ### Endotite Gem
 
-![Endotite Ore](endotite3dSMP.png)
+![Endotite Ore](endotite3dSML.png)
 
 *Ore*
 
