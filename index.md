@@ -5,7 +5,6 @@ layout: default
 
 ## ORES
 
-.
 
 ### Dredomite Gem
 
@@ -13,7 +12,6 @@ layout: default
 
 *Ore can generate in Overworld dimension. Maximum of  6 veins per chunk, 8 ores per vein. Can spawn only in Badlands biome between level 0 and 20.*
 
-.
 
 ### Endotite Gem
 
@@ -21,7 +19,6 @@ layout: default
 
 *Ore*
 
-.
 
 ### Komodat Gem
 
@@ -29,13 +26,13 @@ layout: default
 
 *Ore*
 
-.
 
 ### Landium Gem
 
 ![Landium Ore](landium3dSML.png)
 
 *Ore*
+
 
 ### Liodite Gem
 
